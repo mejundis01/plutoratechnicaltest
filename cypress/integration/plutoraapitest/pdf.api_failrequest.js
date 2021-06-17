@@ -1,4 +1,6 @@
 describe("HTTP request", function() {
+    
+    //GET Request 
     it('GET',function(){
 
         cy.request({
@@ -14,6 +16,7 @@ describe("HTTP request", function() {
       
     })
 
+    //Post Request
 it('POST',function(){
 
     cy.request({
