@@ -1,0 +1,22 @@
+{
+  "name": "plutoratechnicaltest",
+  "version": "1.0.0",
+  "description": "Plutora Technical Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mejundis01/plutoratechnicaltest.git"
+  },
+  "author": "Mira Jundis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mejundis01/plutoratechnicaltest/issues"
+  },
+  "homepage": "https://github.com/mejundis01/plutoratechnicaltest#readme",
+  "devDependencies": {
+    "cypress": "^7.5.0"
+  }
+}
