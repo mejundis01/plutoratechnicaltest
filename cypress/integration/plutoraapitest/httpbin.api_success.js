@@ -1,3 +1,5 @@
+//added 2 api calls for successful and fail as couldn't find api that has authentication without payment
+
 describe("HTTP request", function() {
     it('GET',function(){
 
