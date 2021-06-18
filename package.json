@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mejundis01/plutoratechnicaltest#readme",
   "devDependencies": {
-    "cypress": "^7.5.0"
+    "cypress": "^7.5.0",
+    "cypress-failed-log": "^2.9.1"
   }
 }
